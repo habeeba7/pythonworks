@@ -1,0 +1,6 @@
+1000,abi,django,40
+1002,anu,django,40
+1003,manu,django,40
+1004,sanu,django,40
+1005,thanu,django,40
+1006,aji,django,40

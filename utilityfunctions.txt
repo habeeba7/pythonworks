@@ -1,0 +1,11 @@
+print("message")=> print a message in console
+
+type(object)=>return data type of object
+
+input("message")=> read value from console return string value
+
+round(object,precision)
+
+len()
+
+min()
